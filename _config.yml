@@ -4,15 +4,15 @@ title: "Junteng Liu"
 title_separator: "-"
 name: "Junteng Liu"
 description: "First-year Ph.D. candidate at the HKUST NLP Group researching natural language processing and machine learning."
-url: "https://CassowaryTube.github.io"
+url: "https://cassowarytube.github.io"
 baseurl: "/LJT-Homepage"
 repository: "CassowaryTube/LJT-Homepage"
 
 author:
-  avatar: ""
+  avatar:
   name: "Junteng Liu"
   bio: "First-year Ph.D. candidate at the HKUST NLP Group."
-  location: ""
+  location:
   employer: "HKUST NLP Group"
   email: "jliugi@connect.ust.hk"
   googlescholar: "https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate"
@@ -55,7 +55,6 @@ staticman:
       type: "date"
       options:
         format: "iso8601"
-        generatorFields: []
 
 atom_feed:
   hide: false
